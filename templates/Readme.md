@@ -1,5 +1,5 @@
 # Template for C++
 1. General
-2. Data Structur
+2. Data Structure
 3. Struct
 4. Sort & Search Algotithm
